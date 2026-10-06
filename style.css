@@ -1,0 +1,21 @@
+body {
+    display:flex; 
+    justify-content:center;
+    align-items:center;
+    min-height:100vh; 
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+.card{
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px solid #ccc;
+    background-color:aquamarine;
+    text-align: center;
+}
+
+button:hover {
+    background-color:blanchedalmond;
+    cursor: pointer;
+}
